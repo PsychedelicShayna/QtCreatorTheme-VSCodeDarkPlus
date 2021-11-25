@@ -19,10 +19,14 @@ _From: https://doc.qt.io/qtcreator/creator-quick-tour.html#location-of-settings-
 
 
 ## Purple Keywords Preview 
-
-![](screenshots/purple-1.png)
-![](screenshots/purple-2.png)
+![](screenshots/purple1.png)
+![](screenshots/purple2.png)
+![](screenshots/purple3.png)
 
 ## Blue Keywords Preview
-![](screenshots/blue-1.png)
-![](screenshots/blue-2.png)
+![](screenshots/blue1.png)
+![](screenshots/blue2.png)
+![](screenshots/blue3.png)
+
+## Comments
+![](screenshots/comments.png)
