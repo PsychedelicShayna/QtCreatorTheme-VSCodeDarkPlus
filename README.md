@@ -17,16 +17,18 @@ _From: https://doc.qt.io/qtcreator/creator-quick-tour.html#location-of-settings-
 ### OSX Location
 - `~/Library/Application Support/QtProject/Qt`
 
+## Previews
+Font used in the screenshots:  [MonoLisa](https://www.monolisa.dev/)
 
-## Purple Keywords Preview 
+### Purple Keywords Preview 
 ![](screenshots/purple1.png)
 ![](screenshots/purple2.png)
 ![](screenshots/purple3.png)
 
-## Blue Keywords Preview
+### Blue Keywords Preview
 ![](screenshots/blue1.png)
 ![](screenshots/blue2.png)
 ![](screenshots/blue3.png)
 
-## Comments
+### Comments
 ![](screenshots/comments.png)
