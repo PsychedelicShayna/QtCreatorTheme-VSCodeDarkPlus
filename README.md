@@ -36,4 +36,4 @@ Font used in the screenshots:  [MonoLisa](https://www.monolisa.dev/)
 ![](screenshots/blue3.png)
 
 ### Comments
-![](screenshots/comments.png)
+![image-20221120110327601](screenshots/image-20221120110327601.png)

@@ -34,7 +34,7 @@
   <style name="Preprocessor" foreground="#c586c0"/>
   <style name="Label" foreground="#dcdcdc"/>
   <style name="Comment" foreground="#6a9955"/>
-  <style name="Doxygen.Comment" foreground="#008000"/>
+  <style name="Doxygen.Comment" foreground="#548b49"/>
   <style name="Doxygen.Tag" foreground="#008000"/>
   <style name="VisualWhitespace" foreground="#dcdcdc"/>
   <style name="QmlLocalId" foreground="#dcdcdc" italic="true"/>
