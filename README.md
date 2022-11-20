@@ -9,7 +9,12 @@ _From: https://doc.qt.io/qtcreator/creator-quick-tour.html#location-of-settings-
 
 ### Windows Location
 - Full Path: `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\styles`
+
+  ​				  `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\themes`
+
 - Shortcut: `%appdata%\QtProject\qtcreator\styles`
+
+  ​                 `%appdata%\QtProject\qtcreator\themes`
 
 ### Linux Location
 - `~/.local/share/data/QtProject/qtcreator`
