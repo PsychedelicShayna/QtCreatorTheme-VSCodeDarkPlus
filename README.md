@@ -9,7 +9,12 @@ _From: https://doc.qt.io/qtcreator/creator-quick-tour.html#location-of-settings-
 
 ### Windows Location
 - Full Path: `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\styles`
+
+  ​				  `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\themes`
+
 - Shortcut: `%appdata%\QtProject\qtcreator\styles`
+
+  ​                 `%appdata%\QtProject\qtcreator\themes`
 
 ### Linux Location
 - `~/.local/share/data/QtProject/qtcreator`
@@ -31,4 +36,4 @@ Font used in the screenshots:  [MonoLisa](https://www.monolisa.dev/)
 ![](screenshots/blue3.png)
 
 ### Comments
-![](screenshots/comments.png)
+![image-20221120110327601](screenshots/image-20221120110327601.png)
