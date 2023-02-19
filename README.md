@@ -9,13 +9,15 @@ Just move one or both of the `.xml` files of your choice into your Qt Creator st
 _From: https://doc.qt.io/qtcreator/creator-quick-tour.html#location-of-settings-files_
 
 ### Windows Location
-- Full Paths: `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\styles`
-              `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\themes`
+- Full Paths: 
+  * `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\styles`
+  * `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\themes`
 
-- Shortcut:   `%appdata%\QtProject\qtcreator\styles`
-              `%appdata%\QtProject\qtcreator\themes`
+- Shortcut Paths:   
+  * `%appdata%\QtProject\qtcreator\styles`
+  * `%appdata%\QtProject\qtcreator\themes`
 
-If the `theme` or `styles` folder does not exist, create it.
+If the `theme` or `styles` folder don't exist, create them.
 
 ### Linux Location
 - `~/.local/share/data/QtProject/qtcreator`
