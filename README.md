@@ -4,7 +4,11 @@ I tried my best to port the default Dark+ theme from VS Code into Qt Creator, as
 
 ## Installation
 
-Just move one or both of the `.xml` files of your choice into your Qt Creator styles folder, and the `.creatortheme` file into your Qt Creator themes folder. These two folders belong to the same parent directory, whose location depends on your operating system, and of which there are always two. The first belongs to your Qt Creator installation directory, and contains Qt Creator's default styles & themes -- any styles located there cannot be modified from within Qt Creator. The second, recommended location, is located in the user data directory for whichever operating system you are using.
+For the editor theme, [pick your xml](../../releases) and move it into your Qt Creator **styles** directory. To theme the IDE itself, move the `.creatortheme` file into your Qt Creator **themes** directory. Editor styles and IDE themes are inependent, but why not get both? 
+
+Those directories exist next to each other, and are located in one of two places: your Qt installation directory, or your Qt user directory. The user directory is where I'd suggest you place them, since any styles or themes placed in the installation directory cannot be modified from within Qt, as that's where the defaults are located and isn't really meant for custom styles/themes, but maybe you actually prefer that.
+
+The location of the Qt user directory varies depending on your operating system.
 
 _From: https://doc.qt.io/qtcreator/creator-quick-tour.html#location-of-settings-files_
 
