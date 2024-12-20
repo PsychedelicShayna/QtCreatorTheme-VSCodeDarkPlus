@@ -2,6 +2,17 @@
 
 I tried my best to port the default Dark+ theme from VS Code into Qt Creator, as I find it quite nice, but I cannot replicate it 1:1 due to the limitations of Qt's theme engine, for example Qt doesn't differentiate between keywords like `const`, `namespace`, and `enum` which would be blue in VSCode, and keywords like `if`, `operator`, `return`, which would be purple in VSCode; it's either one or the other in Qt, so I've included both options to choose from, purple keywords (what I prefer), but also blue keywords. I hope you enjoy!
 
+---
+
+## Temporary Notice - Read First
+If you're using a newer version of Qt Creator, make sure to [view this issue](https://github.com/PsychedelicShayna/QtCreatorTheme-VSCodeDarkPlus/issues/3) as the theme will not work unless you use the `.creatortheme`  and new `.figmatokens` referenced in the issue -- you'll end up with a black dackboard and messed up editor style otherwise. This is due to a recent(ish) change in Qt Creator's theme engine.
+
+I'm adding this notice here so that you can still use the theme, while I prepare a new release and edit the rest of the README. If you have any issues please direct them there. They will be fixed. I dont keep track of Qt Creator's updates anymore ~~cough, Neovim~~, so I have no way of discovering these details myself without using it, so if you do spot an error, please, do tell so I can fix it!
+
+This notice will be gone by the time the next release is out; I need to fully adapt the theme to Qt Creator's new keys. 
+
+---
+
 ## Installation
 
 For the editor theme, [pick your xml](../../releases) and move it into your Qt Creator **styles** directory. To theme the IDE itself, move the `.creatortheme` file into your Qt Creator **themes** directory. Editor styles and IDE themes are inependent, but why not get both? 
