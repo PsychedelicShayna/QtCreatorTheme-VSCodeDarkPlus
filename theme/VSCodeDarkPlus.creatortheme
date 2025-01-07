@@ -1,4 +1,5 @@
 [General]
+Includes=VSCodeDarkPlus.figmatokens
 ThemeName=VSCodeDarkPlus
 PreferredStyles=Fusion
 DefaultTextEditorColorScheme=VSCodeDarkPlus_BlueKw.xml

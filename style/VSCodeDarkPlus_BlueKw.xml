@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="VSCode Dark+ (Purple Keywords)">
+<style-scheme version="1.0" name="VSCode Dark+ (Blue Keywords)">
   <style name="Text" foreground="#dcdcdc" background="#1e1e1e"/>
   <style name="Link" foreground="#537639" underlineStyle="SingleUnderline"/>
   <style name="Selection" background="#264f78"/>
@@ -26,7 +26,7 @@
   <style name="Static" foreground="#4fc1ff"/>
   <style name="VirtualMethod" foreground="#dcdcdc"/>
   <style name="Function" foreground="#dcd08d"/>
-  <style name="Keyword" foreground="#c586c0"/>
+  <style name="Keyword" foreground="#569cd6"/>
   <style name="PrimitiveType" foreground="#569cd6"/>
   <style name="Operator" foreground="#dcdcdc"/>
   <style name="Overloaded Operator" foreground="#00677c"/>
@@ -35,8 +35,8 @@
   <style name="Label" foreground="#dcdcdc"/>
   <style name="Comment" foreground="#6a9955"/>
   <style name="Doxygen.Comment" foreground="#548b49"/>
-  <style name="Doxygen.Tag" foreground="#358cca"/>
-  <style name="VisualWhitespace" foreground="#dcdcdc"/>
+  <style name="Doxygen.Tag" foreground="#008000"/>
+  <style name="VisualWhitespace" foreground="#404040"/>
   <style name="QmlLocalId" foreground="#dcdcdc" italic="true"/>
   <style name="QmlExternalId" foreground="#000080" italic="true"/>
   <style name="QmlTypeId" foreground="#4ec9b0"/>
